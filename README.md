@@ -1,28 +1,27 @@
-# NODE SOLID BOILERPLATE
+### Trabalho de Linguagens de Programação - SOLID.
 
-Author: [Flamarion Fagundes Pinto](https://www.linkedin.com/in/flamarion-fagundes-pinto-0b037b210/)
+Flamarion Fagundes Pinto
 
-See on Github: [Node Solid Boilerplate](https://github.com/Flamarionfp/node-solid-boilerplate)
+#### Instalar pacotes:
 
-NODE SOLID BOILERPLATE using TYPESCRIPT.
+`npm install`
 
-This template includes eslint, prettier, husky, jest and dotenv with an opinative architecture based on SOLID principle.
+ou
 
-## Scripts
+`yarn`
 
-```bash
-# install project dependencies
-yarn
+#### Rodar projeto:
 
-# run application locally
-yarn dev
+`npm run dev`
 
-# build for production
-yarn build
+ou
 
-# analyze code
-yarn lint
+`yarn dev`
 
-# run tests
-yarn test
-```
+#### Rodar testes unitários
+
+`npm run test`
+
+ou
+
+`yarn test`
